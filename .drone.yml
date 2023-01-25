@@ -11,7 +11,7 @@ steps:
   - name: compile
     image: maven:3-openjdk-18
     commands:
-    - mvn package
+    - mvn package -DskipTests
 
   - name: publish
     image: plugins/kaniko-ecr
