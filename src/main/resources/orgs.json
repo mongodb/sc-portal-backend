@@ -1,0 +1,1000 @@
+{"_id":{"$oid":"63a3163c24f6c0585e551e3d"},"name":"Genuine Parts Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e3e"},"name":"R.J. Reynolds Tobacco Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e3f"},"name":"Williams Companies Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e40"},"name":"Equity Residential Properties Trust"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e41"},"name":"Fortune Brands Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e42"},"name":"Nortek Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e43"},"name":"Astoria Financial Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e44"},"name":"TRW Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e45"},"name":"DQE Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e46"},"name":"Engelhard Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e47"},"name":"Budget Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e48"},"name":"Crown Cork & Seal Co. Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e49"},"name":"PepsiCo Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e4a"},"name":"Devon Energy Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e4b"},"name":"Centex Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e4c"},"name":"Sun Healthcare Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e4d"},"name":"Wisconsin Energy Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e4e"},"name":"Stein Mart Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e4f"},"name":"Qualcomm Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e50"},"name":"Estee Lauder Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e51"},"name":"Leggett & Platt Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e52"},"name":"Commercial Metals Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e53"},"name":"ARAMARK Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e54"},"name":"E.I. Du Pont de Nemours and Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e55"},"name":"Alaska Air Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e56"},"name":"UAL Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e57"},"name":"Owens Corning"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e58"},"name":"Northern Trust Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e59"},"name":"Rite Aid Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e5a"},"name":"Pep Boys Manny, Moe & Jack"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e5b"},"name":"Encompass Services Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e5c"},"name":"Coca-Cola Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e5d"},"name":"Baxter International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e5e"},"name":"Equitable Resources Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e5f"},"name":"Tribune Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e60"},"name":"Energy East Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e61"},"name":"BorgWarner Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e62"},"name":"Felcor Lodging Trust Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e63"},"name":"Synovus Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e64"},"name":"Arkansas Best Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e65"},"name":"Greif Bros. Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e66"},"name":"Oglethorpe Power Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e67"},"name":"Nordstrom Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e68"},"name":"W.R. Berkley Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e69"},"name":"The May Department Stores Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e6a"},"name":"National Oilwell Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e6b"},"name":"Smithfield Foods Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e6c"},"name":"GreenPoint Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e6d"},"name":"Enterprise Products Partners L.P."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e6e"},"name":"ALLTEL Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e6f"},"name":"Wakenhut Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e70"},"name":"Progressive Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e71"},"name":"The Goodyear Tire & Rubber Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e72"},"name":"NCR Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e73"},"name":"Scotts Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e74"},"name":"Burlington Northern Santa Fe Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e75"},"name":"Silgan Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e76"},"name":"Healthsouth Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e77"},"name":"United Technologies Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e78"},"name":"Express Scripts Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e79"},"name":"Group 1 Automotive Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e7a"},"name":"Northwest Airlines Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e7b"},"name":"Cummins Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e7c"},"name":"Reebok International Ltd."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e7d"},"name":"AutoZone, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e7e"},"name":"Scholastic Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e7f"},"name":"Harsco Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e80"},"name":"Thermo Electron Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e81"},"name":"KeyCorp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e82"},"name":"Safeco Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e83"},"name":"Owens Corning"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e84"},"name":"Ross Stores Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e85"},"name":"Dynegy Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e86"},"name":"Paccar Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e87"},"name":"Park Place Entertainment Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e88"},"name":"Newell Rubbermaid Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e89"},"name":"Fisher Scientific International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e8a"},"name":"Lincoln National Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e8b"},"name":"Quest Diagnostics Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e8c"},"name":"Union Pacific Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e8d"},"name":"TRW Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e8e"},"name":"Affiliated Computer Services, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e8f"},"name":"ArvinMeritor, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e90"},"name":"Regis Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e91"},"name":"Apache Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e92"},"name":"OfficeMax Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e93"},"name":"Viad Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e94"},"name":"Willamette Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e95"},"name":"Computer Associates International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e96"},"name":"Alberto-Culver Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e97"},"name":"Coventry Health Care Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e98"},"name":"AmerisourceBergen Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e99"},"name":"Convergys Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e9a"},"name":"Campbell Soup Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e9b"},"name":"Rock-Tenn Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e9c"},"name":"Tribune Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e9d"},"name":"Ames Department Stores, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551e9e"},"name":"BellSouth Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551e9f"},"name":"Cintas Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea0"},"name":"Wells Fargo & Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea1"},"name":"Revlon Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea2"},"name":"Edison International"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea3"},"name":"CDW Computer Centers Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea4"},"name":"Halliburton Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea5"},"name":"Mohawk Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea6"},"name":"Steelcase Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea7"},"name":"Occidental Petroleum Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea8"},"name":"ADC Telecommunications, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ea9"},"name":"Hon Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eaa"},"name":"Allegheny Technologies Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eab"},"name":"Brunswick Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eac"},"name":"WGL Holdings Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ead"},"name":"Estee Lauder Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eae"},"name":"Unisys Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eaf"},"name":"Merrill Lynch & Co. Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb0"},"name":"Charter One Financial Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb1"},"name":"American Axle & Manufacturing Holdings, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb2"},"name":"MeadWestvaco Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb3"},"name":"IKON Office Solutions Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb4"},"name":"Vulcan Materials Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb5"},"name":"World Fuel Services Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb6"},"name":"Great Lakes Chemical Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb7"},"name":"Abbott Laboratories"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb8"},"name":"Gap Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eb9"},"name":"Maxtor Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eba"},"name":"MDU Resources Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ebb"},"name":"D&K Healthcare Resources, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ebc"},"name":"Airborne, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ebd"},"name":"Symbol Technologies Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ebe"},"name":"Primedia Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ebf"},"name":"Universal Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec0"},"name":"LandAmerica Financial Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec1"},"name":"Coca-Cola Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec2"},"name":"Teleflex Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec3"},"name":"CSX Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec4"},"name":"Sealed Air Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec5"},"name":"Milacron Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec6"},"name":"Tenneco Automotive Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec7"},"name":"Stryker Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec8"},"name":"Constellation Emergy Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ec9"},"name":"John Hancock Financial Services Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eca"},"name":"Universal Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ecb"},"name":"StanCorp Financial Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ecc"},"name":"Polaris Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ecd"},"name":"Baxter International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ece"},"name":"Cisco Systems Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ecf"},"name":"Pepsi Bottling Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed0"},"name":"American Power Conversion Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed1"},"name":"Sports Authority Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed2"},"name":"Beckman Coulter, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed3"},"name":"Swift Transportation, Co., Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed4"},"name":"Potlatch Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed5"},"name":"Newmont Mining Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed6"},"name":"Metris Companies Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed7"},"name":"Bristol-Myers Squibb Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed8"},"name":"Wellpoint Health Networks Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ed9"},"name":"Jabil Circuit Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eda"},"name":"Belk, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551edb"},"name":"Kennametal Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551edc"},"name":"Mail-Well Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551edd"},"name":"Amgen Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ede"},"name":"Thomas & Betts Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551edf"},"name":"Ball Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee0"},"name":"Rite Aid Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee1"},"name":"Becton, Dickinson and Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee2"},"name":"M.D.C. Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee3"},"name":"Steelcase Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee4"},"name":"BB&T Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee5"},"name":"USFreighways Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee6"},"name":"Markel Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee7"},"name":"Ceridian Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee8"},"name":"Bausch & Lomb Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ee9"},"name":"Delphi Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eea"},"name":"Airborne, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eeb"},"name":"Alcoa Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eec"},"name":"Pennzoil-Quaker State Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eed"},"name":"ConAgra Foods Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551eee"},"name":"Bausch & Lomb Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eef"},"name":"Tesoro Petroleum Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef0"},"name":"Magellan Health Services Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef1"},"name":"Brown-Forman Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef2"},"name":"Oxford Health Plans Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef3"},"name":"Rock-Tenn Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef4"},"name":"Delta Air Lines Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef5"},"name":"OfficeMax Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef6"},"name":"Staff Leasing Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef7"},"name":"Northwest Airlines Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef8"},"name":"PolyOne Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ef9"},"name":"Linens 'n Things Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551efa"},"name":"Astoria Financial Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551efb"},"name":"H.B. Fuller Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551efc"},"name":"Scana Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551efd"},"name":"Millennium Chemicals Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551efe"},"name":"Perini Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551eff"},"name":"Standard Pacific Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f00"},"name":"AT&T Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f01"},"name":"Energizer Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f02"},"name":"Edison International"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f03"},"name":"Fleetwood Enterprises Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f04"},"name":"Amkor Technology, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f05"},"name":"Capital One Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f06"},"name":"IKON Office Solutions Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f07"},"name":"H.B. Fuller Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f08"},"name":"Domino's Pizza LLC"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f09"},"name":"Gentek Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f0a"},"name":"ALLTEL Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f0b"},"name":"ExxonMobil Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f0c"},"name":"TJX Companies Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f0d"},"name":"Pittston Brinks Group"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f0e"},"name":"TXU Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f0f"},"name":"Marsh Supermarkets Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f10"},"name":"Insight Enterprises Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f11"},"name":"Airgas, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f12"},"name":"National Oilwell Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f13"},"name":"W.R. Berkley Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f14"},"name":"Toro Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f15"},"name":"Whole Foods Market Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f16"},"name":"MetLife Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f17"},"name":"Avaya Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f18"},"name":"Owens-Illinois Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f19"},"name":"Hormel Foods Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f1a"},"name":"Host Marriott Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f1b"},"name":"Micron Technology Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f1c"},"name":"Universal Health Services Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f1d"},"name":"Hawaiian Electric Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f1e"},"name":"Unisys Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f1f"},"name":"Perot Systems Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f20"},"name":"KB Home"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f21"},"name":"Colgate-Palmolive Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f22"},"name":"United Technologies Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f23"},"name":"Trump Hotels & Casino Resorts Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f24"},"name":"EMC Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f25"},"name":"Apache Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f26"},"name":"Ingles Market Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f27"},"name":"Systemax Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f28"},"name":"Western Gas Resources Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f29"},"name":"Kindred Healthcare Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f2a"},"name":"E*Trade Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f2b"},"name":"Zions Bancorporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f2c"},"name":"Watsco Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f2d"},"name":"Charter One Financial Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f2e"},"name":"Scotts Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f2f"},"name":"Omnicare Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f30"},"name":"Electronic Data Systems Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f31"},"name":"Hawaiian Electric Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f32"},"name":"US Oncology Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f33"},"name":"Administaff, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f34"},"name":"Weatherford International Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f35"},"name":"Wal-Mart Stores Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f36"},"name":"Tech Data Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f37"},"name":"Marriott International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f38"},"name":"Audiovox Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f39"},"name":"Hercules Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f3a"},"name":"Sonic Automotive Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f3b"},"name":"Comerica Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f3c"},"name":"Viacom Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f3d"},"name":"Budget Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f3e"},"name":"GreenPoint Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f3f"},"name":"Park Place Entertainment Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f40"},"name":"Dean Foods Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f41"},"name":"Pinnacle West Capital Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f42"},"name":"Apple Computer, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f43"},"name":"Rite Aid Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f44"},"name":"Worthington Industries Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f45"},"name":"AMERCO"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f46"},"name":"Popular Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f47"},"name":"Phelps Dodge Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f48"},"name":"Brunswick Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f49"},"name":"Electronic Data Systems Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f4a"},"name":"Amazon.com, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f4b"},"name":"Honeywell International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f4c"},"name":"Community Health Systems Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f4d"},"name":"Payless Shoesource Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f4e"},"name":"Freeport McMoran Copper & Gold Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f4f"},"name":"Frontier Oil Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f50"},"name":"Tesoro Petroleum Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f51"},"name":"Foster Wheeler Ltd."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f52"},"name":"Level 3 Communications Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f53"},"name":"Yellow Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f54"},"name":"Ivax Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f55"},"name":"Big Lots, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f56"},"name":"CNF Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f57"},"name":"Host Marriott Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f58"},"name":"Tesoro Petroleum Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f59"},"name":"Cox Communications Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f5a"},"name":"St. Paul Cos."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f5b"},"name":"Chubb Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f5c"},"name":"Brightpoint, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f5d"},"name":"Tektronix Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f5e"},"name":"Principal Financial Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f5f"},"name":"New York Times Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f60"},"name":"Trump Hotels & Casino Resorts Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f61"},"name":"Apache Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f62"},"name":"Starwood Hotels & Resorts Worldwide Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f63"},"name":"Equity Office Properties Trust"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f64"},"name":"Ruddick Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f65"},"name":"CVS Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f66"},"name":"Federated Department Stores Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f67"},"name":"W.R. Grace & Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f68"},"name":"Anthem, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f69"},"name":"AdvancePCS, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f6a"},"name":"Bank One Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f6b"},"name":"Genuine Parts Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f6c"},"name":"Nucor Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f6d"},"name":"Wm Wrigley Jr Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f6e"},"name":"Paccar Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f6f"},"name":"PPL Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f70"},"name":"American Water Works Company, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f71"},"name":"Rohm & Haas Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f72"},"name":"Edison International"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f73"},"name":"Ford Motor Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f74"},"name":"NCR Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f75"},"name":"PNM Resources Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f76"},"name":"Avnet, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f77"},"name":"Collins & Aikman Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f78"},"name":"Brinker International, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f79"},"name":"Protective Life Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f7a"},"name":"Puget Energy Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f7b"},"name":"Tribune Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f7c"},"name":"H.J. Heinz Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f7d"},"name":"Applera Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f7e"},"name":"Mellon Financial Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f7f"},"name":"Merrill Lynch & Co. Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f80"},"name":"Toys 'R' Us Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f81"},"name":"Sears Roebuck & Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f82"},"name":"State Street Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f83"},"name":"York International Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f84"},"name":"Dell Computer Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f85"},"name":"United Technologies Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f86"},"name":"Albertson's, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f87"},"name":"Rohm & Haas Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f88"},"name":"Visteon Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f89"},"name":"Linens 'n Things Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f8a"},"name":"Sonic Automotive Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f8b"},"name":"Toys 'R' Us Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f8c"},"name":"The MONY Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f8d"},"name":"Cisco Systems Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f8e"},"name":"Penn Traffic Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f8f"},"name":"Analog Devices, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f90"},"name":"Target Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f91"},"name":"L-3 Communications Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f92"},"name":"Tyson Foods Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f93"},"name":"C. H. Robinson Worldwide Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f94"},"name":"Verizon Communications Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f95"},"name":"Union Pacific Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f96"},"name":"Avaya Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f97"},"name":"Martin Marietta Materials Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f98"},"name":"World Fuel Services Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f99"},"name":"W.W. Grainger Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f9a"},"name":"ConAgra Foods Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f9b"},"name":"Systemax Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f9c"},"name":"DST Systems, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f9d"},"name":"Enterprise Products Partners L.P."}
+{"_id":{"$oid":"63a3163c24f6c0585e551f9e"},"name":"Alleghany Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551f9f"},"name":"Whole Foods Market Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa0"},"name":"Armstrong Holdings, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa1"},"name":"Sempra Energy"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa2"},"name":"Alleghany Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa3"},"name":"WestPoint Stevens Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa4"},"name":"Wyndham International Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa5"},"name":"Millennium Chemicals Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa6"},"name":"Guidant Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa7"},"name":"Pacific Gas & Electric Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa8"},"name":"Jefferson-Pilot Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fa9"},"name":"Nvidia Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551faa"},"name":"Sealed Air Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fab"},"name":"JDS Uniphase Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fac"},"name":"LandAmerica Financial Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fad"},"name":"Wyndham International Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fae"},"name":"Genzyme Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551faf"},"name":"Service Corp. International"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb0"},"name":"Baker Hughes Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb1"},"name":"United Auto Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb2"},"name":"The MONY Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb3"},"name":"Computer Associates International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb4"},"name":"PepsiCo Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb5"},"name":"Comfort Systems USA Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb6"},"name":"Pinnacle West Capital Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb7"},"name":"Longs Drug Stores Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb8"},"name":"AutoNation, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fb9"},"name":"Sun Microsystems Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fba"},"name":"Park Place Entertainment Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fbb"},"name":"McCormick & Company Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fbc"},"name":"Ace Hardware Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fbd"},"name":"The May Department Stores Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fbe"},"name":"Sun Healthcare Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fbf"},"name":"Humana Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc0"},"name":"Murphy Oil Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc1"},"name":"PSS World Medical Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc2"},"name":"Edison International"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc3"},"name":"Yum Brands Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc4"},"name":"Allergan, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc5"},"name":"Harrah's Entertainment Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc6"},"name":"Lear Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc7"},"name":"Goldman Sachs Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc8"},"name":"OfficeMax Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fc9"},"name":"Mail-Well Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fca"},"name":"Costco Wholesale Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fcb"},"name":"Solutia Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fcc"},"name":"Armstrong Holdings, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fcd"},"name":"Rockwell Automation Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fce"},"name":"Weatherford International Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fcf"},"name":"Advance Auto Parts, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd0"},"name":"Cummins Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd1"},"name":"Atmel Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd2"},"name":"Lyondell Chemical Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd3"},"name":"PacifiCare Health Systems Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd4"},"name":"Genuity Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd5"},"name":"Unocal Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd6"},"name":"Thermo Electron Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd7"},"name":"W.W. Grainger Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd8"},"name":"SPX Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fd9"},"name":"Alcoa Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fda"},"name":"JDS Uniphase Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fdb"},"name":"Best Buy Co., Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fdc"},"name":"Big Lots, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fdd"},"name":"Collins & Aikman Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fde"},"name":"NorthWestern Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fdf"},"name":"Constellation Brands Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe0"},"name":"Fifth Third Bancorp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe1"},"name":"The McGraw-Hill Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe2"},"name":"TruServ Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe3"},"name":"Fluor Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe4"},"name":"Rockwell Automation Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe5"},"name":"Jack In The Box Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe6"},"name":"Berkshire Hathaway Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe7"},"name":"Borders Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe8"},"name":"The Black & Decker Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fe9"},"name":"Stater Bros. Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fea"},"name":"Xerox Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551feb"},"name":"Western Digital Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fec"},"name":"J.B. Hunt Transport Services Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fed"},"name":"ChevronTexaco Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fee"},"name":"United Technologies Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551fef"},"name":"American Greetings Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff0"},"name":"American Express Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff1"},"name":"Philip Morris Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff2"},"name":"Nvidia Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff3"},"name":"Cummins Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff4"},"name":"Mariner Health Care Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff5"},"name":"Sprint Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff6"},"name":"Southern Union Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff7"},"name":"Adams Resources & Energy, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff8"},"name":"Novellus Systems Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ff9"},"name":"Kohl's Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ffa"},"name":"St. Jude Medical Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ffb"},"name":"Phillips Petroleum Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ffc"},"name":"EOG Resources, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551ffd"},"name":"Murphy Oil Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e551ffe"},"name":"Ingram Micro Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e551fff"},"name":"CellStar Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552000"},"name":"Equifax Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552001"},"name":"Dillard's Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552002"},"name":"D.R. Horton Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552003"},"name":"MDU Resources Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552004"},"name":"PeopleSoft Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552005"},"name":"Harley-Davidson Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552006"},"name":"CDW Computer Centers Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552007"},"name":"Kroger Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e552008"},"name":"Marsh & McLennan Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552009"},"name":"Health Management Associates Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55200a"},"name":"Henry Schein Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55200b"},"name":"Guidant Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55200c"},"name":"Greif Bros. Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55200d"},"name":"Yellow Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55200e"},"name":"Northwest Airlines Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55200f"},"name":"The Alpine Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552010"},"name":"Whole Foods Market Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552011"},"name":"The LTV Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552012"},"name":"Tektronix Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552013"},"name":"Progress Energy Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552014"},"name":"Beverly Enterprises, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552015"},"name":"Johnson & Johnson"}
+{"_id":{"$oid":"63a3163c24f6c0585e552016"},"name":"Micron Technology Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552017"},"name":"M & T Bank Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552018"},"name":"Pride International Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552019"},"name":"First American Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55201a"},"name":"Smithfield Foods Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55201b"},"name":"Polo Ralph Lauren Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55201c"},"name":"American Standard Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55201d"},"name":"On Semiconductor Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55201e"},"name":"Schering-Plough Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55201f"},"name":"TJX Companies Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552020"},"name":"United Auto Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552021"},"name":"La-Z-Boy Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552022"},"name":"Harsco Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552023"},"name":"Cooper Industries Ltd."}
+{"_id":{"$oid":"63a3163c24f6c0585e552024"},"name":"Tenet Healthcare Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552025"},"name":"Tiffany & Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e552026"},"name":"Domino's Pizza LLC"}
+{"_id":{"$oid":"63a3163c24f6c0585e552027"},"name":"Transocean Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552028"},"name":"Arch Coal, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552029"},"name":"The Neiman Marcus Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55202a"},"name":"Merck & Co., Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55202b"},"name":"Fleming Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55202c"},"name":"Reader's Digest Association Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55202d"},"name":"First Tennessee National Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55202e"},"name":"Equity Office Properties Trust"}
+{"_id":{"$oid":"63a3163c24f6c0585e55202f"},"name":"Fairchild Semiconductor International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552030"},"name":"PeopleSoft Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552031"},"name":"Adolph Coors Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e552032"},"name":"National Semiconductor Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552033"},"name":"Hovnanian Enterprises Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552034"},"name":"Southern Union Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e552035"},"name":"Standard Pacific Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552036"},"name":"Deluxe Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552037"},"name":"Atmel Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552038"},"name":"Northern Trust Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552039"},"name":"Massey Energy Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e55203a"},"name":"EGL Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55203b"},"name":"Visteon Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55203c"},"name":"Ingram Micro Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55203d"},"name":"Sonic Automotive Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55203e"},"name":"Viasystems Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55203f"},"name":"RoadwayCorp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552040"},"name":"Anadarko Petroleum Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552041"},"name":"General Electric Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e552042"},"name":"Williams Sonoma Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552043"},"name":"Constellation Brands Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552044"},"name":"Starbucks Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552045"},"name":"GenCorp Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552046"},"name":"Rent A Center Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552047"},"name":"Nordstrom Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552048"},"name":"Ciena Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552049"},"name":"Sun Microsystems Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55204a"},"name":"Ivax Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55204b"},"name":"Ivax Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55204c"},"name":"Unisource Energy Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55204d"},"name":"Computer Associates International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55204e"},"name":"Oracle Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55204f"},"name":"Viacom Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552050"},"name":"Sunoco Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552051"},"name":"Footstar Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552052"},"name":"US Airways Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552053"},"name":"Gemstar-TV Guide International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552054"},"name":"Owens-Illinois Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552055"},"name":"Manor Care Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552056"},"name":"H.B. Fuller Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e552057"},"name":"WESCO International Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552058"},"name":"Allmerica Financial Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552059"},"name":"Cintas Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55205a"},"name":"Southwest Gas Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55205b"},"name":"Nacco Industries Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55205c"},"name":"The Alpine Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55205d"},"name":"Thermo Electron Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55205e"},"name":"Wellpoint Health Networks Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55205f"},"name":"Tribune Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e552060"},"name":"The McGraw-Hill Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552061"},"name":"York International Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552062"},"name":"Allied Waste Industries, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552063"},"name":"CKE Restaurants Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552064"},"name":"National Commerce Financial Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552065"},"name":"Reliance Steel & Aluminum Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e552066"},"name":"St. Jude Medical Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552067"},"name":"Michaels Stores Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552068"},"name":"Starwood Hotels & Resorts Worldwide Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552069"},"name":"PepsiAmericas Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55206a"},"name":"Consolidated Freightways Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55206b"},"name":"Sonoco Products Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e55206c"},"name":"Charter One Financial Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55206d"},"name":"Viad Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55206e"},"name":"Coca-Cola Enterprises Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55206f"},"name":"Compass Bancshares Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552070"},"name":"Scholastic Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552071"},"name":"Rohm & Haas Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e552072"},"name":"AGCO Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552073"},"name":"Comfort Systems USA Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552074"},"name":"Briggs & Stratton Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552075"},"name":"World Fuel Services Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552076"},"name":"John Hancock Financial Services Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552077"},"name":"Ruddick Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552078"},"name":"NSTAR"}
+{"_id":{"$oid":"63a3163c24f6c0585e552079"},"name":"Baker Hughes Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e55207a"},"name":"Metris Companies Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55207b"},"name":"Campbell Soup Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e55207c"},"name":"Adams Resources & Energy, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55207d"},"name":"PNM Resources Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55207e"},"name":"StanCorp Financial Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55207f"},"name":"ExxonMobil Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552080"},"name":"TravelCenters of America Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552081"},"name":"United Defense Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552082"},"name":"Omnicom Group"}
+{"_id":{"$oid":"63a3163c24f6c0585e552083"},"name":"Brightpoint, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552084"},"name":"AOL Time Warner Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552085"},"name":"Office Depot Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552086"},"name":"Budget Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552087"},"name":"Phelps Dodge Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552088"},"name":"Omnicom Group"}
+{"_id":{"$oid":"63a3163c24f6c0585e552089"},"name":"Ceridian Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55208a"},"name":"Microsoft Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55208b"},"name":"SPX Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55208c"},"name":"CenturyTel Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55208d"},"name":"Dow Jones & Company, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55208e"},"name":"Murphy Oil Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55208f"},"name":"UGI Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552090"},"name":"Coventry Health Care Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552091"},"name":"Johnson Controls Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552092"},"name":"Alliant Energy Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552093"},"name":"Ivax Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552094"},"name":"Triad Hospitals Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552095"},"name":"Foot Locker Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552096"},"name":"Advanced Micro Devices, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552097"},"name":"Aetna Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552098"},"name":"Applied Industrial Technologies, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552099"},"name":"Becton, Dickinson and Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e55209a"},"name":"Raymond James Financial Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55209b"},"name":"Shopko Stores Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55209c"},"name":"Agway Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55209d"},"name":"Dover Corporation, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55209e"},"name":"Regions Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55209f"},"name":"Equitable Resources Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a0"},"name":"H.J. Heinz Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a1"},"name":"Burlington Industries, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a2"},"name":"Energizer Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a3"},"name":"Flowserv Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a4"},"name":"Safeco Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a5"},"name":"Belk, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a6"},"name":"Pennzoil-Quaker State Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a7"},"name":"Computer Associates International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a8"},"name":"Cablevision Systems Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520a9"},"name":"Earthlink, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520aa"},"name":"Wal-Mart Stores Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ab"},"name":"Hilton Hotels Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ac"},"name":"Pathmark Stores Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ad"},"name":"International Business Machines Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ae"},"name":"Comfort Systems USA Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520af"},"name":"Georgia-Pacific Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b0"},"name":"Best Buy Co., Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b1"},"name":"Vulcan Materials Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b2"},"name":"Reader's Digest Association Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b3"},"name":"Eastman Kodak Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b4"},"name":"CKE Restaurants Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b5"},"name":"SouthTrust Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b6"},"name":"The McGraw-Hill Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b7"},"name":"Allied Waste Industries, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b8"},"name":"American Water Works Company, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520b9"},"name":"Eastman Chemical Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ba"},"name":"National Oilwell Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520bb"},"name":"Mariner Health Care Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520bc"},"name":"First American Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520bd"},"name":"Gold Kist Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520be"},"name":"Cooper Cameron Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520bf"},"name":"UnitedHealth Group Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c0"},"name":"Visteon Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c1"},"name":"Cooper Industries Ltd."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c2"},"name":"Guidant Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c3"},"name":"ARAMARK Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c4"},"name":"Centex Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c5"},"name":"Healthsouth Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c6"},"name":"Entergy Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c7"},"name":"Hartford Financial Services Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c8"},"name":"Tyson Foods Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520c9"},"name":"ACT Manufacturing Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ca"},"name":"Consolidated Freightways Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520cb"},"name":"J.C. Penny Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520cc"},"name":"Trump Hotels & Casino Resorts Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520cd"},"name":"Atmel Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ce"},"name":"Banknorth Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520cf"},"name":"Constellation Emergy Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d0"},"name":"Maxxam Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d1"},"name":"Comdisco Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d2"},"name":"Legg Mason Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d3"},"name":"FirstEnergy Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d4"},"name":"Robert Half International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d5"},"name":"Packaging Corp. of America"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d6"},"name":"Paychex Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d7"},"name":"Footstar Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d8"},"name":"Exide Technologies"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520d9"},"name":"Nortek Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520da"},"name":"Nacco Industries Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520db"},"name":"World Fuel Services Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520dc"},"name":"DQE Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520dd"},"name":"Merrill Lynch & Co. Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520de"},"name":"Applied Materials, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520df"},"name":"Quanta Services Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e0"},"name":"Hovnanian Enterprises Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e1"},"name":"Plains All American Pipeline LP"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e2"},"name":"Revlon Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e3"},"name":"ABM Industries Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e4"},"name":"Ecolab Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e5"},"name":"Wendy's International Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e6"},"name":"CDW Computer Centers Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e7"},"name":"Herman Miller Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e8"},"name":"Cooper Cameron Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520e9"},"name":"Sprint Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ea"},"name":"Rent A Center Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520eb"},"name":"Levi Strauss & Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ec"},"name":"Lexmark International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ed"},"name":"Xerox Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ee"},"name":"Adams Resources & Energy, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ef"},"name":"CNF Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f0"},"name":"ACT Manufacturing Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f1"},"name":"Bristol-Myers Squibb Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f2"},"name":"Amtran, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f3"},"name":"Thermo Electron Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f4"},"name":"Mattel Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f5"},"name":"Stein Mart Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f6"},"name":"Bemis Company, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f7"},"name":"Trigon Healthcare Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f8"},"name":"Autoliv, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520f9"},"name":"Nvidia Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520fa"},"name":"The Men's Wearhouse Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520fb"},"name":"Marriott International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520fc"},"name":"Visteon Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5520fd"},"name":"Quest Diagnostics Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520fe"},"name":"Comfort Systems USA Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5520ff"},"name":"National Semiconductor Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552100"},"name":"National Service Industries Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552101"},"name":"Alaska Air Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552102"},"name":"Advantica Restaurant Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552103"},"name":"WGL Holdings Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552104"},"name":"Gillette Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e552105"},"name":"JDS Uniphase Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552106"},"name":"C. H. Robinson Worldwide Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552107"},"name":"TMP Worldwide Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552108"},"name":"Gentek Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552109"},"name":"Echostar Communications Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55210a"},"name":"National Rural Utilities Cooperative Finance Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55210b"},"name":"ArvinMeritor, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55210c"},"name":"AmSouth Bancorp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55210d"},"name":"Dow Jones & Company, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55210e"},"name":"Tecumseh Products Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e55210f"},"name":"Wisconsin Energy Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552110"},"name":"Bethlehem Steel Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552111"},"name":"TMP Worldwide Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552112"},"name":"McKesson Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552113"},"name":"FPL Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552114"},"name":"Pantry Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552115"},"name":"Potomac Electric Power Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e552116"},"name":"The Clorox Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e552117"},"name":"Costco Wholesale Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552118"},"name":"Union Planters Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552119"},"name":"World Fuel Services Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55211a"},"name":"Host Marriott Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55211b"},"name":"Safeway Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55211c"},"name":"Longs Drug Stores Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55211d"},"name":"JDS Uniphase Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55211e"},"name":"J.C. Penny Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e55211f"},"name":"Continental Airlines Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552120"},"name":"Costco Wholesale Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552121"},"name":"Kindred Healthcare Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552122"},"name":"Ross Stores Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552123"},"name":"Maxim Integrated Products Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552124"},"name":"Noble Energy Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552125"},"name":"Comerica Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552126"},"name":"Thermo Electron Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552127"},"name":"Conectiv, Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552128"},"name":"Target Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552129"},"name":"Dun & Bradstreet Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55212a"},"name":"Conectiv, Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55212b"},"name":"Mirant Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55212c"},"name":"Eastman Kodak Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e55212d"},"name":"AMC Entertainment Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55212e"},"name":"Cenex Harvest States Cooperatives"}
+{"_id":{"$oid":"63a3163c24f6c0585e55212f"},"name":"St. Jude Medical Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552130"},"name":"EOG Resources, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552131"},"name":"Peter Kiewit Sons', Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552132"},"name":"National Commerce Financial Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552133"},"name":"Procter & Gamble Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e552134"},"name":"Ace Hardware Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552135"},"name":"Anixter International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552136"},"name":"Saks Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552137"},"name":"Cadence Design Systems, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552138"},"name":"Chubb Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552139"},"name":"AdvancePCS, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55213a"},"name":"Pfizer Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55213b"},"name":"Stater Bros. Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55213c"},"name":"C. H. Robinson Worldwide Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55213d"},"name":"U.S. Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55213e"},"name":"IT Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55213f"},"name":"Southwest Airlines Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e552140"},"name":"McLeodUSA Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e552141"},"name":"Lowe's Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552142"},"name":"Stanley Works"}
+{"_id":{"$oid":"63a3163c24f6c0585e552143"},"name":"Belk, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552144"},"name":"Golden State Bancorp Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552145"},"name":"Micron Technology Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552146"},"name":"First American Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552147"},"name":"Winn Dixie Stores Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552148"},"name":"Wachovia Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552149"},"name":"FMC Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55214a"},"name":"Pioneer-Standard Electronics Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55214b"},"name":"Dean Foods Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e55214c"},"name":"Thermo Electron Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55214d"},"name":"AMR Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55214e"},"name":"Casey's General Stores Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55214f"},"name":"Solutia Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552150"},"name":"Sanmina-SCI Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552151"},"name":"Cardinal Health Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552152"},"name":"Trans World Entertainment Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552153"},"name":"Shaw Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552154"},"name":"KPMG Consulting Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552155"},"name":"Baxter International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552156"},"name":"Teradyne Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552157"},"name":"Milacron Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552158"},"name":"Mail-Well Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552159"},"name":"D&K Healthcare Resources, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55215a"},"name":"Weyerhauser Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e55215b"},"name":"Wisconsin Energy Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55215c"},"name":"Marathon Oil Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55215d"},"name":"Aquila, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55215e"},"name":"Trump Hotels & Casino Resorts Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55215f"},"name":"Hollywood Entertainment Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552160"},"name":"Peoples Energy Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e552161"},"name":"Wyeth"}
+{"_id":{"$oid":"63a3163c24f6c0585e552162"},"name":"Anheuser-Busch Companies, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552163"},"name":"New York Times Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e552164"},"name":"Alcoa Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552165"},"name":"Union Planters Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552166"},"name":"Trinity Industries Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552167"},"name":"Exelon Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552168"},"name":"Cox Communications Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552169"},"name":"Bausch & Lomb Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e55216a"},"name":"Tektronix Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55216b"},"name":"Unisys Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55216c"},"name":"Noble Energy Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55216d"},"name":"The MONY Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55216e"},"name":"Farmland Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55216f"},"name":"Owens Corning"}
+{"_id":{"$oid":"63a3163c24f6c0585e552170"},"name":"Harman International Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552171"},"name":"DaVita Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552172"},"name":"ABM Industries Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e552173"},"name":"Publix Super Markets Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552174"},"name":"CH2M Hill Cos. Ltd."}
+{"_id":{"$oid":"63a3163c24f6c0585e552175"},"name":"Yum Brands Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552176"},"name":"Stilwell Financial Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552177"},"name":"Hawaiian Electric Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552178"},"name":"Dole Food Company, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552179"},"name":"DynCorp"}
+{"_id":{"$oid":"63a3163c24f6c0585e55217a"},"name":"Astoria Financial Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55217b"},"name":"Tyson Foods Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55217c"},"name":"Nash Finch Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e55217d"},"name":"WPS Resources Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55217e"},"name":"JDS Uniphase Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55217f"},"name":"BellSouth Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552180"},"name":"Equity Residential Properties Trust"}
+{"_id":{"$oid":"63a3163c24f6c0585e552181"},"name":"Plains All American Pipeline LP"}
+{"_id":{"$oid":"63a3163c24f6c0585e552182"},"name":"Burlington Coat Factory Warehouse Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552183"},"name":"Brown Shoe Company, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552184"},"name":"AMERCO"}
+{"_id":{"$oid":"63a3163c24f6c0585e552185"},"name":"Harrah's Entertainment Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552186"},"name":"Whole Foods Market Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552187"},"name":"ADC Telecommunications, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552188"},"name":"Norfolk Southern Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552189"},"name":"Harsco Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55218a"},"name":"IDT Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55218b"},"name":"Equity Residential Properties Trust"}
+{"_id":{"$oid":"63a3163c24f6c0585e55218c"},"name":"Adolph Coors Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e55218d"},"name":"Nicor Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55218e"},"name":"Allegheny Technologies Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e55218f"},"name":"Cenex Harvest States Cooperatives"}
+{"_id":{"$oid":"63a3163c24f6c0585e552190"},"name":"KPMG Consulting Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552191"},"name":"American Eagle Outfitters, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552192"},"name":"Aon Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552193"},"name":"Mandalay Resort Group"}
+{"_id":{"$oid":"63a3163c24f6c0585e552194"},"name":"Marsh Supermarkets Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552195"},"name":"Seaboard Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552196"},"name":"Hovnanian Enterprises Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552197"},"name":"DST Systems, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552198"},"name":"Lithia Motors Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552199"},"name":"Bausch & Lomb Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e55219a"},"name":"Laboratory Corporation of America Holdings"}
+{"_id":{"$oid":"63a3163c24f6c0585e55219b"},"name":"Williams Companies Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55219c"},"name":"FPL Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55219d"},"name":"American Axle & Manufacturing Holdings, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55219e"},"name":"WorldCom Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55219f"},"name":"Marsh Supermarkets Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a0"},"name":"Provident Financial Group"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a1"},"name":"Exide Technologies"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a2"},"name":"Torchmark Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a3"},"name":"Washington Post Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a4"},"name":"Dial Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a5"},"name":"Emcor Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a6"},"name":"Safeguard Scientifics Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a7"},"name":"Plains All American Pipeline LP"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a8"},"name":"General Dynamics Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521a9"},"name":"Energizer Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521aa"},"name":"Quantum Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ab"},"name":"Computer Associates International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ac"},"name":"Cisco Systems Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ad"},"name":"Millennium Chemicals Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ae"},"name":"SLM Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521af"},"name":"Lehman Brothers Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b0"},"name":"Belk, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b1"},"name":"US Airways Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b2"},"name":"H&R Block Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b3"},"name":"Reader's Digest Association Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b4"},"name":"Bethlehem Steel Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b5"},"name":"Primedia Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b6"},"name":"Riverwood Holding Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b7"},"name":"Viacom Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b8"},"name":"Southwest Airlines Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521b9"},"name":"United Technologies Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ba"},"name":"Boston Scientific Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521bb"},"name":"Amtran, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521bc"},"name":"Stryker Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521bd"},"name":"Maytag Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521be"},"name":"Terex Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521bf"},"name":"Delphi Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c0"},"name":"Caterpillar Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c1"},"name":"Schering-Plough Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c2"},"name":"United Rentals Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c3"},"name":"W.R. Grace & Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c4"},"name":"The Alpine Group, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c5"},"name":"Archer Daniels Midland Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c6"},"name":"Pulte Homes Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c7"},"name":"J.P. Morgan Chase & Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c8"},"name":"Valspar Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521c9"},"name":"Sherwin-Williams Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ca"},"name":"Pep Boys Manny, Moe & Jack"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521cb"},"name":"Williams Sonoma Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521cc"},"name":"Calpine Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521cd"},"name":"WorldCom Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ce"},"name":"Avaya Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521cf"},"name":"Varco International Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d0"},"name":"Republic Services Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d1"},"name":"Household International Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d2"},"name":"Hewlett-Packard Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d3"},"name":"Maxtor Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d4"},"name":"Public Service Enterprise Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d5"},"name":"Mandalay Resort Group"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d6"},"name":"Rent A Center Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d7"},"name":"Starwood Hotels & Resorts Worldwide Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d8"},"name":"Lexmark International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521d9"},"name":"Sealed Air Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521da"},"name":"Campbell Soup Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521db"},"name":"Science Applications Intl. Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521dc"},"name":"Southern Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521dd"},"name":"Scotts Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521de"},"name":"McLeodUSA Incorporated"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521df"},"name":"First American Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e0"},"name":"StanCorp Financial Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e1"},"name":"Textron Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e2"},"name":"Metals USA Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e3"},"name":"Caterpillar Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e4"},"name":"Solectron Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e5"},"name":"Textron Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e6"},"name":"Capital One Financial Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e7"},"name":"SunGard Data Systems Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e8"},"name":"Timken Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521e9"},"name":"Solutia Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ea"},"name":"Riverwood Holding Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521eb"},"name":"Hartford Financial Services Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ec"},"name":"DPL Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ed"},"name":"K-Mart Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ee"},"name":"Goodrich Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ef"},"name":"Big Lots, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f0"},"name":"KeyCorp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f1"},"name":"StanCorp Financial Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f2"},"name":"BJ's Wholesale Club, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f3"},"name":"National Commerce Financial Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f4"},"name":"Texas Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f5"},"name":"Pro-Fac Cooperative Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f6"},"name":"Systemax Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f7"},"name":"Wisconsin Energy Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f8"},"name":"Allegheny Energy, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521f9"},"name":"Wellpoint Health Networks Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521fa"},"name":"PNC Financial Services Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521fb"},"name":"Revlon Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521fc"},"name":"Hartford Financial Services Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e5521fd"},"name":"AmerisourceBergen Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521fe"},"name":"Pharmacia Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e5521ff"},"name":"Visteon Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552200"},"name":"PepsiCo Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552201"},"name":"Zale Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552202"},"name":"Hawaiian Electric Industries Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552203"},"name":"Spherion Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552204"},"name":"Visteon Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552205"},"name":"The Allstate Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552206"},"name":"Progressive Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552207"},"name":"E.W. Scripps Company"}
+{"_id":{"$oid":"63a3163c24f6c0585e552208"},"name":"CBRL Group Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552209"},"name":"The Bear Stearns Companies Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55220a"},"name":"JDS Uniphase Corp."}
+{"_id":{"$oid":"63a3163c24f6c0585e55220b"},"name":"OM Group Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55220c"},"name":"Anthem, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55220d"},"name":"Veritas Software Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55220e"},"name":"Martin Marietta Materials Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55220f"},"name":"Tektronix Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552210"},"name":"Tech Data Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552211"},"name":"Energizer Holdings Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552212"},"name":"Chiquita Brands International Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552213"},"name":"Merrill Lynch & Co. Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552214"},"name":"PerkinElmer Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552215"},"name":"Sonoco Products Co."}
+{"_id":{"$oid":"63a3163c24f6c0585e552216"},"name":"Verizon Communications Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552217"},"name":"Ford Motor Co"}
+{"_id":{"$oid":"63a3163c24f6c0585e552218"},"name":"ArvinMeritor, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552219"},"name":"Intel Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55221a"},"name":"ACT Manufacturing Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55221b"},"name":"MeadWestvaco Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55221c"},"name":"Kennametal Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e55221d"},"name":"United Stationers Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e55221e"},"name":"WPS Resources Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e55221f"},"name":"Chubb Corp"}
+{"_id":{"$oid":"63a3163c24f6c0585e552220"},"name":"Cadence Design Systems, Inc."}
+{"_id":{"$oid":"63a3163c24f6c0585e552221"},"name":"Revlon Inc"}
+{"_id":{"$oid":"63a3163c24f6c0585e552222"},"name":"Burlington Northern Santa Fe Corporation"}
+{"_id":{"$oid":"63a3163c24f6c0585e552223"},"name":"AMERCO"}
+{"_id":{"$oid":"63a3163c24f6c0585e552224"},"name":"Safeco Corp"}

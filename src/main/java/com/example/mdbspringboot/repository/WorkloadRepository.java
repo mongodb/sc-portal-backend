@@ -5,16 +5,25 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
 import java.util.List;
+import java.util.Optional;
 
 public interface WorkloadRepository extends MongoRepository<Workload, String> {
-	public long count();
+	 long count();
 
-	@Query("{workloadName:'?0'}")
-	Workload findItemByWorkloadName(String name);
+	@Query("{name:'?0'}")
+	Workload findWorkloadByName(String name);
 	
 	@Query(value="{category:'?0'}", fields="{'name' : 1, 'quantity' : 1}")
 	List<Workload> findAll(String category);
-	
+
+
+	@Query("{workloadObjectId:'?0'}")
+	Workload findWorkloadObjectId(String objectId);
+
+	@Query("{ 'id' : ?0 }")
+	Optional<Workload> findById(String id);
+
+
 
 
 }

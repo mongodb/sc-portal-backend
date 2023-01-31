@@ -13,13 +13,14 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 @SpringBootApplication
 @EnableMongoRepositories
 public class MdbSpringBootApplication implements CommandLineRunner{
 	
 	@Autowired
-	WorkloadRepository groceryItemRepo;
+	WorkloadRepository workloadRepository;
 	
 	@Autowired
 	CustomItemRepository customRepo;
@@ -33,7 +34,7 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 	public void run(String... args) {
 		
 		// Clean up any previous data
-		groceryItemRepo.deleteAll(); // Doesn't delete the collection
+		workloadRepository.deleteAll(); // Doesn't delete the collection
 		
 		System.out.println("-------------CREATE GROCERY ITEMS-------------------------------\n");
 		
@@ -66,6 +67,9 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 		System.out.println("\n------------FINAL COUNT OF GROCERY ITEMS-------------------------\n");
 		
 		findCountOfGroceryItems();
+
+		System.out.println("\n------------Find One Document By Object Id-------------------------\n");
+		findOneDocumentByObjectId("1");
 		
 		System.out.println("\n-------------------THANK YOU---------------------------");
 						
@@ -78,13 +82,20 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 		System.out.println("Data creation started...");
 
 		ObjectId o1 = new ObjectId();
-
+/*
 		groceryItemRepo.save(new Workload(new ObjectId(), "Whole Wheat Biscuit", 5, "snacks"));
 		groceryItemRepo.save(new Workload(new ObjectId(), "XYZ Kodo Millet healthy", 2, "millets"));
 		groceryItemRepo.save(new Workload(new ObjectId(), "Dried Whole Red Chilli", 2, "spices"));
 		groceryItemRepo.save(new Workload(new ObjectId(), "Healthy Pearl Millet", 1, "millets"));
-		groceryItemRepo.save(new Workload(new ObjectId(), "Bonny Cheese Crackers Plain", 6, "snacks"));
-		
+		groceryItemRepo.save(new Workload(new ObjectId(), "Bonny Cheese Crackers Plain", 6, "snacks"));*/
+
+
+		workloadRepository.save(new Workload(new ObjectId().toString(), "Whole Wheat Biscuit", 5, "snacks"));
+		workloadRepository.save(new Workload(new ObjectId().toString(), "XYZ Kodo Millet healthy", 2, "millets"));
+		workloadRepository.save(new Workload(new ObjectId().toString(), "Dried Whole Red Chilli", 2, "spices"));
+		workloadRepository.save(new Workload(new ObjectId().toString(), "Healthy Pearl Millet", 1, "millets"));
+		workloadRepository.save(new Workload("1", "workload1", 6, "snacks"));
+
 		System.out.println("Data creation complete...");
 	}
 	
@@ -92,7 +103,7 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 	// 1. Show all the data
 	 public void showAllGroceryItems() {
 		 
-		 itemList = groceryItemRepo.findAll();
+		 itemList = workloadRepository.findAll();
 		 
 		 itemList.forEach(item -> System.out.println(getItemDetails(item)));
 	 }
@@ -100,21 +111,21 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 	 // 2. Get item by name
 	 public void getGroceryItemByName(String name) {
 		 System.out.println("Getting item by name: " + name);
-		 Workload item = groceryItemRepo.findItemByWorkloadName(name);
+		 Workload item = workloadRepository.findWorkloadByName(name);
 		 System.out.println(getItemDetails(item));
 	 }
 	 
 	 // 3. Get name and items of a all items of a particular category
 	 public void getItemsByCategory(String category) {
 		 System.out.println("Getting items for the category " + category);
-		 List<Workload> list = groceryItemRepo.findAll(category);
+		 List<Workload> list = workloadRepository.findAll(category);
 		 
 		 list.forEach(item -> System.out.println("Name: " + item.getWorkloadName() + ", Quantity: " + item.getQuantity()));
 	 }
 	 
 	 // 4. Get count of documents in the collection
 	 public void findCountOfGroceryItems() {
-		 long count = groceryItemRepo.count();
+		 long count = workloadRepository.count();
 		 System.out.println("Number of documents in the collection = " + count);
 	 }
 	 
@@ -125,7 +136,7 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 		 String newCategory = "munchies";
 		 
 		 // Find all the items with the category 
-		 List<Workload> list = groceryItemRepo.findAll(category);
+		 List<Workload> list = workloadRepository.findAll(category);
 		 
 		 list.forEach(item -> {
 			 // Update the category in each document
@@ -133,10 +144,18 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 		 });
 		 
 		 // Save all the items in database
-		 List<Workload> itemsUpdated = groceryItemRepo.saveAll(list);
+		 List<Workload> itemsUpdated = workloadRepository.saveAll(list);
 		 
 		 if(itemsUpdated != null)
 			 System.out.println("Successfully updated " + itemsUpdated.size() + " items.");		 
+	 }
+
+	 public void findOneDocumentByObjectId(String id) {
+		 Optional<Workload> workload = workloadRepository.findById(id);
+		 String workload1 = null;
+		 if (workload.isPresent()) {
+		 }workload1 = workload.get().toString();
+		 System.out.println("Workload: " + workload1);
 	 }
 	 
 	 
@@ -148,7 +167,7 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 	 
 	 // DELETE
 	 public void deleteGroceryItem(String id) {
-		 groceryItemRepo.deleteById(id);
+		 workloadRepository.deleteById(id);
 		 System.out.println("Item with id " + id + " deleted...");
 	 }
 	 // Print details in readable form
