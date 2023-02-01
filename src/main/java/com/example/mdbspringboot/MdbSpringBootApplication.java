@@ -32,9 +32,9 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 	}
 	
 	public void run(String... args) {
-		
+		/*
 		// Clean up any previous data
-		workloadRepository.deleteAll(); // Doesn't delete the collection
+		//workloadRepository.deleteAll(); // Doesn't delete the collection
 		
 		System.out.println("-------------CREATE GROCERY ITEMS-------------------------------\n");
 		
@@ -71,7 +71,7 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 		System.out.println("\n------------Find One Document By Object Id-------------------------\n");
 		findOneDocumentByObjectId("1");
 		
-		System.out.println("\n-------------------THANK YOU---------------------------");
+		System.out.println("\n-------------------THANK YOU---------------------------");*/
 						
 	}
 	
@@ -80,22 +80,11 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 	//CREATE
 	void createGroceryItems() {
 		System.out.println("Data creation started...");
-
-		ObjectId o1 = new ObjectId();
-/*
-		groceryItemRepo.save(new Workload(new ObjectId(), "Whole Wheat Biscuit", 5, "snacks"));
-		groceryItemRepo.save(new Workload(new ObjectId(), "XYZ Kodo Millet healthy", 2, "millets"));
-		groceryItemRepo.save(new Workload(new ObjectId(), "Dried Whole Red Chilli", 2, "spices"));
-		groceryItemRepo.save(new Workload(new ObjectId(), "Healthy Pearl Millet", 1, "millets"));
-		groceryItemRepo.save(new Workload(new ObjectId(), "Bonny Cheese Crackers Plain", 6, "snacks"));*/
-
-
 		workloadRepository.save(new Workload(new ObjectId().toString(), "Whole Wheat Biscuit", 5, "snacks"));
 		workloadRepository.save(new Workload(new ObjectId().toString(), "XYZ Kodo Millet healthy", 2, "millets"));
 		workloadRepository.save(new Workload(new ObjectId().toString(), "Dried Whole Red Chilli", 2, "spices"));
 		workloadRepository.save(new Workload(new ObjectId().toString(), "Healthy Pearl Millet", 1, "millets"));
 		workloadRepository.save(new Workload("1", "workload1", 6, "snacks"));
-
 		System.out.println("Data creation complete...");
 	}
 	
@@ -120,7 +109,7 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 		 System.out.println("Getting items for the category " + category);
 		 List<Workload> list = workloadRepository.findAll(category);
 		 
-		 list.forEach(item -> System.out.println("Name: " + item.getWorkloadName() + ", Quantity: " + item.getQuantity()));
+		 list.forEach(item -> System.out.println("Name: " + item.getName() + ", Quantity: " + item.getQuantity()));
 	 }
 	 
 	 // 4. Get count of documents in the collection
@@ -175,7 +164,7 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 	 public String getItemDetails(Workload item) {
 
 		 System.out.println(
-		 "Item Name: " + item.getWorkloadName() +
+		 "Item Name: " + item.getName() +
 		 ", \nItem Quantity: " + item.getQuantity() +
 		 ", \nItem Category: " + item.getCurrentDatabase()
 		 );

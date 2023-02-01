@@ -1,32 +1,41 @@
 package com.example.mdbspringboot.model;
 
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-import lombok.ToString;
+import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+import java.util.Date;
+
 @Document("workload")
-@Getter @Setter @NoArgsConstructor @ToString
+@Getter @Setter @NoArgsConstructor @ToString @AllArgsConstructor
 public class Workload {
 
 		@Id
 		private String id;
 
-		private String workloadName;
+		private String name;
 		private int quantity;
 		private String currentDatabase;
 	    private String targetCloud;
 	    private String parentOrg;
 	    private String description;
 	    private String currentHosting;
+		private String motion;
+		private Boolean inProduction;
+		private String dataStore;
+		private String workloadType;
+		private Date dateCreated;
+		private Date lastEdited;
+		private Org org;
 
 
-		public Workload(String id, String workloadName, int quantity, String currentDatabase) {
+
+
+
+		public Workload(String id, String name, int quantity, String currentDatabase) {
 			super();
 			this.id = id;
-			this.workloadName = workloadName;
+			this.name = name;
 			this.quantity = quantity;
 			this.currentDatabase = currentDatabase;
 		}
