@@ -10,3 +10,6 @@ ingress:
   path: /api
   hosts:
     - sc-portal.sc-north.staging.corp.mongodb.com
+
+envSecrets:
+  DB_URL: sc-portal
