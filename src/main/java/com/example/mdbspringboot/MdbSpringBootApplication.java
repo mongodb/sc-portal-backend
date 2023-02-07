@@ -100,8 +100,8 @@ public class MdbSpringBootApplication implements CommandLineRunner{
 	 // 2. Get item by name
 	 public void getGroceryItemByName(String name) {
 		 System.out.println("Getting item by name: " + name);
-		 Workload item = workloadRepository.findWorkloadByName(name);
-		 System.out.println(getItemDetails(item));
+		 List<Workload> item = workloadRepository.findWorkloadByName(name);
+		 //System.out.println(getItemDetails(item));
 	 }
 	 
 	 // 3. Get name and items of a all items of a particular category

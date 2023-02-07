@@ -11,5 +11,7 @@ public class Org {
     @Id
     private String id;
 
+    private String name;
+
 
 }

@@ -11,5 +11,15 @@ ingress:
   hosts:
     - sc-portal.sc-north.staging.corp.mongodb.com
 
+
+# Entries here refer back to secrets created in helm and visibile in the Kanopy portal
+# the value here (sc-portal in this case) is the "secrets list" that we want to use. And
+# it contains a secret named DB_URL that will be matched up to this DB_URL entry:
+#
+#    DB_URL:                            sc-portal
+#    name of env to expose              Secrets list to use for the values in the first part
+#    of of secret inside secret
+#     list to get the value from
+#
 envSecrets:
   DB_URL: sc-portal

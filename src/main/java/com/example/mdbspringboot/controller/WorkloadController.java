@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import javax.servlet.http.HttpServletResponse;
+import java.util.List;
 import java.util.Optional;
 
 @RestController
@@ -49,8 +50,8 @@ public class WorkloadController {
     }
 
     @GetMapping(value = "/findWorkloadByName/{name}", consumes = "application/json", produces = "application/json")
-    public Workload getWorkloadByName(@PathVariable("name") String name) {
-        Optional<Workload> workload = Optional.ofNullable(repository.findWorkloadByName(name));
+    public List<Workload> getWorkloadByName(@PathVariable("name") String name) {
+        Optional<List<Workload>> workload = Optional.ofNullable(repository.findWorkloadByName(name));
         if (workload.isPresent()) {
             return workload.get();
         } else {
