@@ -10,7 +10,7 @@ import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.stereotype.Component;
 
 @Component
-public class CustomItemRepositoryImpl implements CustomItemRepository {
+public class CustomItemRepositoryImpl implements com.example.mdbspringboot.repository.CustomItemRepository {
 
 	@Autowired
 	MongoTemplate mongoTemplate;

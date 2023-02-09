@@ -2,7 +2,6 @@ package com.example.mdbspringboot.repository;
 
 import com.example.mdbspringboot.model.Workload;
 import org.springframework.data.mongodb.repository.Aggregation;
-import org.springframework.data.mongodb.repository.DeleteQuery;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
