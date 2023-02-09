@@ -2,6 +2,9 @@ package com.example.mdbspringboot.controller;
 
 import com.example.mdbspringboot.model.Workload;
 import com.example.mdbspringboot.repository.WorkloadRepository;
+import com.example.mdbspringboot.service.WorkloadService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
@@ -10,32 +13,32 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
+@RequestMapping(value="workload", consumes = MediaType.APPLICATION_JSON_VALUE,
+        produces = MediaType.APPLICATION_JSON_VALUE)
 public class WorkloadController {
-    private final WorkloadRepository repository;
 
-    WorkloadController(WorkloadRepository repository) {
-        this.repository = repository;
-    }
+    @Autowired
+    private WorkloadService service;
 
 
-    @PostMapping(
-            value = "/workload", consumes = "application/json", produces = "application/json")
+
+    @PostMapping
     public Workload createWorkload(@RequestBody Workload workload) {
-        return repository.insert(workload);
+        return service.insert(workload);
     }
 
-    @PostMapping(
-            value = "/updateWorkload", consumes = "application/json", produces = "application/json")
-    public Workload updateWorkloadById(@RequestBody Workload workload, HttpServletResponse response) {
+    @PutMapping(value = "/{id}")
+    public Workload updateWorkloadById(@PathVariable("id") String id, @RequestBody Workload workload, HttpServletResponse response) {
         response.setHeader("Location", ServletUriComponentsBuilder.fromCurrentContextPath()
                 .path("/findWorkload/" + workload.getId()).toUriString());
-        return repository.save(workload);
+        workload.setId(id);
+        return service.save(workload);
     }
 
 
-    @GetMapping(value = "/workload/id/{id}", consumes = "application/json", produces = "application/json")
+    @GetMapping(value = "/{id}")
     public Workload findWorkloadById(@PathVariable("id") String id, HttpServletResponse response) {
-        Optional<Workload> workload = repository.findById(id);
+        Optional<Workload> workload = service.findById(id);
         if (workload.isPresent()) {
             return workload.get();
         } else {
@@ -44,18 +47,24 @@ public class WorkloadController {
 
     }
 
-    @PostMapping(value = "/deleteworkloadById/id/{id}", consumes = "application/json", produces = "application/json")
+    @DeleteMapping(value = "/{id}")
     public void deleteWorkloadById(@PathVariable("id") String id) {
-        repository.deleteById(id);
+        service.deleteById(id);
     }
 
-    @GetMapping(value = "/findWorkloadByName/{name}", consumes = "application/json", produces = "application/json")
-    public List<Workload> getWorkloadByName(@PathVariable("name") String name) {
-        Optional<List<Workload>> workload = Optional.ofNullable(repository.findWorkloadByName(name));
+    /**
+    Moved this to a post to make it easier to support additional fields in the future without having to change the URL signature.
+    Also this format works better for free form names so we don't have to worry about URl encoding messing with things.
+     */
+    @PostMapping(value = "/search")
+    public List<Workload> getWorkloadByName(@RequestBody String name) {
+        Optional<List<Workload>> workload = Optional.ofNullable(service.findWorkloadByName(name));
         if (workload.isPresent()) {
             return workload.get();
         } else {
-            throw new ResourceNotFoundException("Record not found with name : " + name);
+            return null;
+            // Not returning an error here as its valid for a search to not return results.
+            //throw new ResourceNotFoundException("Record not found with name : " + name);
         }
 
     }
