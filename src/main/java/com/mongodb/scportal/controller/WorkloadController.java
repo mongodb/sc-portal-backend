@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
+@CrossOrigin(origins = "http://localhost:4200", maxAge = 3600)
 @RequestMapping(value="workload", consumes = MediaType.APPLICATION_JSON_VALUE,
         produces = MediaType.APPLICATION_JSON_VALUE)
 public class WorkloadController {
@@ -58,6 +59,19 @@ public class WorkloadController {
     @PostMapping(value = "/search")
     public List<Workload> getWorkloadByName(@RequestBody String name) {
         Optional<List<Workload>> workload = Optional.ofNullable(service.findWorkloadByName(name));
+        if (workload.isPresent()) {
+            return workload.get();
+        } else {
+            return null;
+            // Not returning an error here as its valid for a search to not return results.
+            //throw new ResourceNotFoundException("Record not found with name : " + name);
+        }
+
+    }
+
+    @PostMapping(value = "/recent")
+    public List<Workload> getRecentWorkloads() {
+        Optional<List<Workload>> workload = Optional.ofNullable(service.findRecentWorkloads());
         if (workload.isPresent()) {
             return workload.get();
         } else {

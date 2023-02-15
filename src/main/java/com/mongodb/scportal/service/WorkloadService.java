@@ -31,6 +31,10 @@ public class WorkloadService {
         return repository.findWorkloadByName(name);
     }
 
+    public List<Workload> findRecentWorkloads(){
+        return repository.findRecentWorkloads();
+    }
+
 
     public List<Workload> findAll(String category) {
         return repository.findAll(category);

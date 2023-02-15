@@ -15,7 +15,11 @@ public interface WorkloadRepository extends MongoRepository<Workload, String> {
 	//@Query("{name:'?0'}")
 	@Aggregation(pipeline = {"{'$search': {'index':'default','text': {'path': ['name','org.name'], 'query': '?0'}}}"})
 	List<Workload> findWorkloadByName(String name);
-	
+
+	@Aggregation(pipeline = {"{'$match': {}},{'$sort': {'lastUpdate':-1}},{'$limit': 50}]"})
+	List<Workload> findRecentWorkloads();
+
+
 	@Query(value="{category:'?0'}", fields="{'name' : 1, 'quantity' : 1}")
 	List<Workload> findAll(String category);
 
