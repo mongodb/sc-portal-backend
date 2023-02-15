@@ -1,4 +1,4 @@
-package com.example.mdbspringboot.model;
+package com.mongodb.scportal.model;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

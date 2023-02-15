@@ -1,4 +1,4 @@
-package com.example.mdbspringboot.controller;
+package com.mongodb.scportal.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

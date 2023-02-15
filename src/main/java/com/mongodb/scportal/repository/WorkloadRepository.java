@@ -1,6 +1,7 @@
-package com.example.mdbspringboot.repository;
+package com.mongodb.scportal.repository;
 
-import com.example.mdbspringboot.model.Workload;
+
+import com.mongodb.scportal.model.Workload;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;

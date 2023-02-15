@@ -1,4 +1,4 @@
-package com.example.mdbspringboot.repository;
+package com.mongodb.scportal.repository;
 
 public interface CustomItemRepository {
 	

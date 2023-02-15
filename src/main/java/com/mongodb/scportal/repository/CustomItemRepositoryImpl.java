@@ -1,7 +1,8 @@
-package com.example.mdbspringboot.repository;
+package com.mongodb.scportal.repository;
 
-import com.example.mdbspringboot.model.Workload;
+
 import com.mongodb.client.result.UpdateResult;
+import com.mongodb.scportal.model.Workload;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
@@ -10,7 +11,7 @@ import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.stereotype.Component;
 
 @Component
-public class CustomItemRepositoryImpl implements com.example.mdbspringboot.repository.CustomItemRepository {
+public class CustomItemRepositoryImpl implements CustomItemRepository {
 
 	@Autowired
 	MongoTemplate mongoTemplate;

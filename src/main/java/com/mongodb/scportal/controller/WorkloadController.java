@@ -1,7 +1,7 @@
-package com.example.mdbspringboot.controller;
+package com.mongodb.scportal.controller;
 
-import com.example.mdbspringboot.model.Workload;
-import com.example.mdbspringboot.service.WorkloadService;
+import com.mongodb.scportal.model.Workload;
+import com.mongodb.scportal.service.WorkloadService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
@@ -41,7 +41,7 @@ public class WorkloadController {
         if (workload.isPresent()) {
             return workload.get();
         } else {
-            throw new com.example.mdbspringboot.controller.ResourceNotFoundException("Record not found with id : " + id);
+            throw new ResourceNotFoundException("Record not found with id : " + id);
         }
 
     }

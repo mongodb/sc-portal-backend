@@ -1,8 +1,10 @@
-package com.example.mdbspringboot.service;
+package com.mongodb.scportal.service;
 
-import com.example.mdbspringboot.model.Workload;
-import com.example.mdbspringboot.repository.WorkloadRepository;
+
+
 import com.mongodb.client.result.UpdateResult;
+import com.mongodb.scportal.model.Workload;
+import com.mongodb.scportal.repository.WorkloadRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
