@@ -1,8 +1,9 @@
-package com.example.mdbspringboot;
+package com.mongodb.scportal;
 
-import com.example.mdbspringboot.model.Workload;
+
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.mongodb.scportal.model.Workload;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.springframework.boot.test.context.SpringBootTest;
