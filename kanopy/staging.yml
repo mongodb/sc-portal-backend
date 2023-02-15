@@ -14,7 +14,10 @@ ingress:
 resources:
   requests:
     cpu: 50m
-    memory: 64Mi
+    memory: 400Mi
+  limits:
+    cpu: 50m
+    memory: 700Mi
 
 # Entries here refer back to secrets created in helm and visibile in the Kanopy portal
 # the value here (sc-portal in this case) is the "secrets list" that we want to use. And
