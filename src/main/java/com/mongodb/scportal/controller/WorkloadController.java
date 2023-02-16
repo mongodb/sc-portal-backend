@@ -1,6 +1,8 @@
 package com.mongodb.scportal.controller;
 
+import com.mongodb.scportal.model.Sizing;
 import com.mongodb.scportal.model.Workload;
+import com.mongodb.scportal.service.SizingService;
 import com.mongodb.scportal.service.WorkloadService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
@@ -19,6 +21,9 @@ public class WorkloadController {
 
     @Autowired
     private WorkloadService service;
+
+    @Autowired
+    private SizingService sizingService;
 
 
 
@@ -81,4 +86,23 @@ public class WorkloadController {
         }
 
     }
+
+
+    @GetMapping(value = "/{id}/sizing/{sizing_id}")
+    public Sizing getSizingById(@PathVariable("id") String workloadId, @PathVariable("sizing_id") String sizingId, HttpServletResponse response) {
+        Optional<Sizing> workload = sizingService.findById(sizingId, workloadId);
+        if (workload.isPresent()) {
+            return workload.get();
+        } else {
+            throw new ResourceNotFoundException("Record not found with id : " + sizingId + " for workload " + workloadId );
+        }
+
+    }
+
+    @GetMapping(value = "/{id}/sizing")
+    public List<Sizing> getAllSizingsForWorkload(@PathVariable("id") String workloadId,  HttpServletResponse response) {
+        return sizingService.getSizingsByWorkload(workloadId);
+    }
+
+
 }
