@@ -19,11 +19,15 @@ public class Contact {
     private String lastName;
     private String fullName;
     private String preferredName;
+
+    private String role;
     private String email;
 
     private List<Phone> phones;
 
     private Address address;
+
+    private Org account;
 
     private List<Social> social;
 

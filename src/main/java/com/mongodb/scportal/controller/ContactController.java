@@ -25,6 +25,17 @@ public class ContactController {
         return service.getAll();
     }
 
+
+    @GetMapping(value="/recent")
+    public List<Contact> getRecent(){
+        return service.getRecent();
+    }
+
+    @PostMapping(value="/search")
+    public List<Contact> seachContacts(@RequestBody String name){
+        return service.searchContacts(name);
+    }
+
     @GetMapping(value="{id}")
     public Contact getById(@PathVariable("id") String id){
         Optional<Contact> contact = service.findContact(id);

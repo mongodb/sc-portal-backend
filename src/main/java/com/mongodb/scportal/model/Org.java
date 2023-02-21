@@ -13,5 +13,7 @@ public class Org {
 
     private String name;
 
+    private String salesForceId;
+
 
 }

@@ -23,6 +23,15 @@ public class ContactService {
         return repository.findAll();
     }
 
+    public List<Contact> getRecent(){
+        return repository.getRecent();
+    }
+
+
+    public List<Contact> searchContacts(String name){
+        return repository.searchContacts(name);
+    }
+
     public Optional<Contact> findContact(String id){
         return repository.findById(id);
     }
